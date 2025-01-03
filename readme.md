@@ -1,6 +1,6 @@
 # Hangman Game in C  
 
-## 📖 Overview  
+## Overview  
 The Hangman Game is a classic word-guessing game implemented in the C programming language. Players guess letters to uncover a hidden word while trying to avoid completing a "hangman" drawing. This project demonstrates fundamental programming concepts and offers an engaging gameplay experience.  
 
 ## Features  
@@ -17,7 +17,7 @@ The Hangman Game is a classic word-guessing game implemented in the C programmin
   - Arrays  
   - File I/O (if applicable)  
 
-## 🚀 Getting Started  
+## Getting Started  
 
 ### Prerequisites  
 - A C compiler (e.g., GCC).  
