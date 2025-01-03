@@ -25,6 +25,5 @@ The Hangman Game is a classic word-guessing game implemented in the C programmin
 
 ### Installation  
 1. Clone the repository:  
-   ```bash
    git clone https://github.com/atulsinghhhh/hangmanGame.git 
    cd hangman-game  
